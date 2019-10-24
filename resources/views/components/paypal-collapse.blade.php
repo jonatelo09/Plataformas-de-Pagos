@@ -1,0 +1,1 @@
+<small>Se redigira a la pagina de checkout de paypal</small>
